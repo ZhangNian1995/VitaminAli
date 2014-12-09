@@ -1,6 +1,8 @@
 ---
 layout: default
 title: 不要做无谓的坚持和幻想的努力
+category: 生活
+comments: true
 ---
 
 有时候，你觉得自己一直在坚持和努力，可是从没问问自己这样的坚持和努力有用吗？
