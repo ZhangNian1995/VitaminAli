@@ -1,3 +1,3 @@
-http://ZhangNian1995.github.io/Vitamin
+http://www.vitaminali.com
 =======================
 Vitamin°的博客
