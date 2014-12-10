@@ -15,7 +15,7 @@ body {
   font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #555;
   font-weight: 300;
-  background: url('data:image/png;base64,raw.githubusercontent.com/ZhangNian1995/VitaminAli/gh-pages/images/checker.png') fixed;
+  background: url('https://raw.githubusercontent.com/ZhangNian1995/VitaminAli/gh-pages/images/checker.png') fixed;
 }
 
 .wrapper {
