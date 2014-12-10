@@ -1,5 +1,5 @@
 username: ZhangNian1995
-baseurl: /VitaminAli
+baseurl: 
 markdown: redcarpet
 safe: false
 pygments: true
