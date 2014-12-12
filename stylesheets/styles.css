@@ -6,9 +6,7 @@ font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
 color: #555;
 font-weight: 300;
 background-color:rgb(35,35,35);
-background: url('https://raw.githubusercontent.com/ZhangNian1995/VitaminAli/gh-pages/images/checker.png');
-attachment:scroll;
-repeat:repeat-y;
+background: url('https://raw.githubusercontent.com/ZhangNian1995/VitaminAli/gh-pages/images/checker.png') scroll repeat-y;
 position:top center;
 }
 
