@@ -4,5 +4,3 @@ markdown: redcarpet
 safe: false
 pygments: true
 title: Vitamin°
-keywords:"Vitamin°的Github博客,Java,JavaEE,JavaScript,HTML,Android开发,Linux,服务器,智能手机,HTML5"
-description:"Vitamin°的Github博客,我是一名Android开发工程师,这里是记录博主学习和成长的一个自媒体博客。关注于Android开发和Web前端的学习研究，有这方面感兴趣的朋友欢迎一起交流学习。"
