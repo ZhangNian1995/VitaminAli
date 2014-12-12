@@ -12,10 +12,10 @@ background: RGB(35,35,35) url(https://raw.githubusercontent.com/ZhangNian1995/Vi
   width: 1000px;
   margin: 0 auto;
   background: #DEDEDE;
-  filter:alpha(opacity=50);   
-      -moz-opacity:0.5;   
-      -khtml-opacity: 0.5;   
-      opacity: 0.5;   
+  filter:alpha(opacity=80);   
+      -moz-opacity:0.8;   
+      -khtml-opacity: 0.8;   
+      opacity: 0.8;   
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   -ms-border-radius: 8px;
