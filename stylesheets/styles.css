@@ -16,6 +16,7 @@ body {
   color: #555;
   font-weight: 300;
   background: url('https://raw.githubusercontent.com/ZhangNian1995/VitaminAli/gh-pages/images/checker.png');
+  background-size:cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
