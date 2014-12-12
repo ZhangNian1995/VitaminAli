@@ -6,9 +6,13 @@ font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
 color: #555;
 font-weight: 300;
 background-image: url('https://raw.githubusercontent.com/ZhangNian1995/VitaminAli/gh-pages/images/checker.png');
-background-repeat:no-repeat;
-background-attachment:fixed;
+background-repeat:repeat-y;
+background-attachment:scroll;
 background-position:cover;
+background-image: url('https://raw.githubusercontent.com/ZhangNian1995/VitaminAli/gh-pages/images/checker.png');
+background-repeat:repeat-y;
+background-attachment:scroll;
+background-position:contain;
 }
 
 .wrapper {
