@@ -7,8 +7,8 @@ color: #555;
 font-weight: 300;
 background-image: url('https://raw.githubusercontent.com/ZhangNian1995/VitaminAli/gh-pages/images/checker.png');
 background-color:rgb(35,35,35);
-background-repeat:no-repeat;
 background-attachment:scroll;
+background-repeat:repeat-y;
 background-position:top center;
 }
 
