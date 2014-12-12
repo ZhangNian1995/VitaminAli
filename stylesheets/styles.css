@@ -1,14 +1,4 @@
 /* @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700); */
-html {
-  background: #242424;
-  background: #242424 -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #242424), color-stop(100%, #434b55)) fixed;
-  background: #242424 -webkit-linear-gradient(#242424, #434b55) fixed;
-  background: #242424 -moz-linear-gradient(#242424, #434b55) fixed;
-  background: #242424 -o-linear-gradient(#242424, #434b55) fixed;
-  background: #242424 -ms-linear-gradient(#242424, #434b55) fixed;
-  background: #242424 linear-gradient(#242424, #434b55) fixed;
-}
-
 body {
   padding: 50px 0;
   margin: 0;
@@ -16,10 +6,7 @@ body {
   color: #555;
   font-weight: 300;
   background: url('https://raw.githubusercontent.com/ZhangNian1995/VitaminAli/gh-pages/images/checker.png');
-  background-size:cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-size:contain;
 }
 
 .wrapper {
