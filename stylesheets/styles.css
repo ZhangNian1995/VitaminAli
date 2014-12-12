@@ -5,7 +5,7 @@ margin: 0;
 font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
 color: #555;
 font-weight: 300;
-background: rgb(35,35,35) url(https://raw.githubusercontent.com/ZhangNian1995/VitaminAli/gh-pages/images/checker.png) repeat-y scroll top center;
+background: #00FF00 url(https://raw.githubusercontent.com/ZhangNian1995/VitaminAli/gh-pages/images/checker.png) repeat-y scroll top center;
 }
 
 .wrapper {
