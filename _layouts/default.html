@@ -35,7 +35,9 @@
       </section>
     </div>
     <script type="text/javascript">
-    if({{ page.title }} == 文章目录){
+    var str = "文章目录";
+    var title = {{ page.title }};
+    if(str.localeCompare(title) == 0){
     }else{
     <div class="Comment" >
         <!-- 多说评论框 start -->
