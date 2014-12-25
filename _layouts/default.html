@@ -35,6 +35,7 @@
       </section>
     </div>
     <script type="text/javascript">
+    (function() {
     var title = "{{ page.title }}";
     var str = title.localeCompare("文章目录");
     if( str == 0 ){
@@ -72,6 +73,7 @@
     	</div>
 <!-- 多说公共JS代码 end -->
 	</div>}
+	})();
 	</script>
     <footer>
       <p>Project maintained by <a href="https://github.com/{{site.username}}">Vitamin°</a></p>
