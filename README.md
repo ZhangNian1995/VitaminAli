@@ -1,4 +1,4 @@
 #Vitamin°
-###http://blog.vitaminali.com
+###http://git.vitaminali.com
 =======================
 Vitamin°的博客
